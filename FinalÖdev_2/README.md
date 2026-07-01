@@ -49,15 +49,7 @@ cv_matching/
 ├── notebooks/plots
 │   ├── 01_eda_ve_onisleme.ipynb  → Keşifsel veri analizi + 6 adım ön işleme
 │   └── 02_model_karsilastirma.ipynb → TF-IDF vs Word2Vec karşılaştırması
-│
-├── cvs_örnek/
-│   └── *.txt                     → Örnek yüklenebilir CV dosyaları
-│
-└── rapor/
-    ├── cv_ilan_eslesme_rapor.tex → LaTeX raporu (Overleaf)
-    ├── CV_Ilan_Eslesmesi_Rapor.pdf  → PDF raporu (DBS'e yüklenecek)
-    ├── 04_jaccard_heatmap.png  → ısı haritası resmi
-    └── GU_LOGO.png                 → Üniversite logosu
+└── 
 ```
 
 ---

@@ -2,12 +2,8 @@
 
 **Ders:** Doğal Dil İşleme
 **Öğretim Elemanı:** Dr. Rabia Yaşa Koştaş
-**Final Ödev-2** | Teslim: 15 Haziran 2026
 
-**Proje Ekibi:**
-1. Mario Enrique Motede Dasilva | 2411081503
-2. Heriberto Fernandez Chale | 2411081509
-3. Matias Fernando Ndong Owono Obiang | 2311081634
+Matias Fernando Ndong Owono Obiang | 2311081634
 
 ---
 
